@@ -6,10 +6,15 @@ Automatiseringen syftar till att man som utvecklare kan granska sina ändringar 
 
 ## Paket
 
-1. Concat - används för att sammanföra filer i en src-katalog till en och samma fil i önskad pub-pubbliseringskatalog
-2. Imagemi - används för att komprimera bilder 
-3. Uglify - används för att 
-1. Actual numbers don't matter, just that it's a number
+1. **Concat** - används för att sammanföra filer i en src-katalog till en och samma fil i önskad pub-pubbliseringskatalog
+2. **Imagemi** - används för att komprimera bilder - mindre filstorlek utan minskad kvalité 
+3. **Uglify** - används för att komprimera javascriptsfiler - ta bort onödigt innehåll så som kommentarer och radbrytningar 
+1. **Uglifycss** - används för att komprimera css-filer - ta bort onödigt innehåll så som kommentarer och radbrytningar 
+
+
+**Watch** - Används för att övervaka förändringar som görs i filerna och kör automatiskt vissa uppgifter
+
+
 ⋅⋅1. Ordered sub-list
 4. And another item.
 
