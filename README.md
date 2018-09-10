@@ -4,6 +4,9 @@ A basic template, just to know how it works
 ## Automatisering
 Automatiseringen syftar till att man som utvecklare kan granska sina ändringar i webbläsaren utan att man manuellt behöver uppdatera sidan. 
 
+##Paket
+
+
 
 1. First ordered list item
 2. Another item
