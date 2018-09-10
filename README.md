@@ -4,13 +4,11 @@ A basic template, just to know how it works
 ## Automatisering
 Automatiseringen syftar till att man som utvecklare kan granska sina ändringar i webbläsaren utan att man manuellt behöver uppdatera sidan. 
 
-##Paket
+## Paket
 
-
-
-1. First ordered list item
-2. Another item
-⋅⋅* Unordered sub-list. 
+1. Concat - används för att sammanföra filer i en src-katalog till en och samma fil i önskad pub-pubbliseringskatalog
+2. Imagemi - används för att komprimera bilder 
+3. Uglify - används för att 
 1. Actual numbers don't matter, just that it's a number
 ⋅⋅1. Ordered sub-list
 4. And another item.
