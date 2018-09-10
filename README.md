@@ -1,4 +1,6 @@
 # Gulp and Git together - Start Template
+A basic template, just to know how it works
+
 
 1. First ordered list item
 2. Another item
