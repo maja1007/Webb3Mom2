@@ -5,16 +5,16 @@ _A basic template, just to know how it works_
 Som verktyg har jag använt mig av Visual Studi Code och Git Bash
 
 ## Automatisering
-Automatiseringen syftar till att man som utvecklare kan granska sina ändringar i webbläsaren utan att man manuellt behöver uppdatera sidan. 
+Automatiseringen syftar till att man som utvecklare kan granska sina ändringar i webbläsaren utan att man manuellt behöver uppdatera sidan. Processen syftar till att man arbetar i en källmapp och automatiserar ändringar i en publiseringsmapp. Det kan exempelvis handla om att komprimera bilder, sammaslå flera filer till en eller att göra sass-fler till css-filer.
 
 #Att starta upp Automatisk uppdatering används kommandot gump i kommandotolken
 
 #Att avsluta Automatisk uppdatering används kommandot Ctrl + C i kommandotolken
 
 ## System
-_Gulp_ startar upp systemet och _run_ kör sedan igenom de tasks som angivits i gulpfile.js.
+_Gulp_ startar upp systemet och default_/_run_ kör sedan igenom de tasks som angivits i gulpfile.js.
 
-Med Hjälpav funktionen _"watch"_ ligger hela tiden systemet och lyssnar på om ändringar i filerna görs.
+Med Hjälpav funktionen _"watch"_ ligger hela tiden systemet och lyssnar på om ändringar i filerna görs. 
 
 **CopyHtml** -används för att kopiera alla html-filer från src till publiseringsmappen
 
