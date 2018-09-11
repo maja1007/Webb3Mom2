@@ -1,9 +1,14 @@
 # Gulp and Git together - Start Template
-A basic template, just to know how it works
+_A basic template, just to know how it works_
+
+## Verktyg
+Som verktyg har jag använt mig av Visual Studi Code och Git Bash
 
 ## Automatisering
 Automatiseringen syftar till att man som utvecklare kan granska sina ändringar i webbläsaren utan att man manuellt behöver uppdatera sidan. 
+
 #Att starta upp Automatisk uppdatering används kommandot gump i kommandotolken
+
 #Att avsluta Automatisk uppdatering används kommandot Ctrl + C i kommandotolken
 
 ## System
@@ -16,9 +21,6 @@ Med Hjälpav funktionen _"watch"_ ligger hela tiden systemet och lyssnar på om 
 **Run**- används för att köra task
 
 **Watch** - Används för att övervaka förändringar som görs i filerna och kör automatiskt vissa uppgifter
-
-## Verktyg
-Som verktyg har jag använt mig av Visual Studi Code och Git Bash
 
 ## Paket
 1. **Concat** - används för att sammanföra filer i en src-katalog till en och samma fil i önskad pub-pubbliseringskatalog
