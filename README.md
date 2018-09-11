@@ -7,10 +7,14 @@ Automatiseringen syftar till att man som utvecklare kan granska sina ändringar 
 #Att avsluta Automatisk uppdatering används kommandot Ctrl + C i kommandotolken
 
 ## System
-_Gulp_ startar upp systemet och _run_ kör sedan igenom de tasks som angivits i gulpfile.js. Med Hjälpav funktionen _"watch"_ ligger hela tiden systemet och lyssnar på om ändringar i filerna görs.
+_Gulp_ startar upp systemet och _run_ kör sedan igenom de tasks som angivits i gulpfile.js.
+
+Med Hjälpav funktionen _"watch"_ ligger hela tiden systemet och lyssnar på om ändringar i filerna görs.
 
 **CopyHtml** -används för att kopiera alla html-filer från src till publiseringsmappen
+
 **Run**- används för att köra task
+
 **Watch** - Används för att övervaka förändringar som görs i filerna och kör automatiskt vissa uppgifter
 
 ## Verktyg
